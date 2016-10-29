@@ -21,6 +21,4 @@ app.post('/update_tables', function(req,res) {
   }
 });
 
-
-
 }
